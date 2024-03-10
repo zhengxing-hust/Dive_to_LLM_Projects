@@ -402,7 +402,7 @@ https://github.com/THUDM/AgentBench
 
 ### LangChain 
 
-- https://github.com/langchain-ai/langchain
+https://github.com/langchain-ai/langchain
 
 **LangChain** is a framework for developing applications powered by language models. It enables applications that:
   **Are context-aware**: connect a language model to sources of context (prompt instructions, few shot examples, content to ground its response in, etc.)
